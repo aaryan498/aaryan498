@@ -1,16 +1,34 @@
-## Hi there 👋
+### 👋 Hi there, I'm Aaryan!
 
-<!--
-**aaryan498/aaryan498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a B.Tech Computer Science student  
+🌱 Currently learning Python, Git, GitHub & Web Development  
+🧠 Exploring the world of AI & ML (just getting started!)  
+💡 Strong foundation in C programming  
+💻 Just created my LeetCode profile to begin DSA from scratch
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools & Technologies I'm Exploring:
+- **Languages**: C, Python (beginner)
+- **Web Dev**: HTML, CSS, JavaScript, React.js (intro level)
+- **Version Control**: Git & GitHub
+- **Currently Learning**: Problem-solving, AI/ML basics
+
+---
+
+### 🚀 Goals:
+- Build real-world beginner projects
+- Crack DSA step by step on LeetCode
+- Land my first internship in tech
+- Explore AI/ML research in the future
+
+---
+
+### 📫 Let’s connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/aaryan-kumar-ai-498-coder)
+- 🧠 [LeetCode](https://leetcode.com/u/aaryan_498/)
+- 💻 [GitHub](https://github.com/aaryan498)
+
+---
+
+_"Started with 0 commits and infinite dreams..."_ 🌟
