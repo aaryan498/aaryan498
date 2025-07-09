@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Aaryan!
 
-🎓 I'm a B.Tech Computer Science student  
+🎓 I'm a B.Tech Computer Science student @ AKGEC, GHAZIABAD  
 🌱 Currently learning Python, Git, GitHub & Web Development  
 🧠 Exploring the world of AI & ML (just getting started!)  
 💡 Strong foundation in C programming  
