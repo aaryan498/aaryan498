@@ -34,11 +34,11 @@
 
 ---
 
-### 📫 Let’s connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/aaryan-kumar-ai-498-coder)
-- 🧠 [LeetCode](https://leetcode.com/u/aaryan_498/)
-- 💻 [GitHub](https://github.com/aaryan498)
+### 📫 Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaryan-kumar-ai-498-coder)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/aaryan498)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/aaryan_498/)
 ---
 
 > “Started with zero commits and infinite curiosity.” 🌱
