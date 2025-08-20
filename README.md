@@ -6,7 +6,7 @@
 🌱 Currently learning Python, Git, GitHub & Web Development  
 🧠 Exploring the world of AI & ML (just getting started!)  
 💡 Strong foundation in C programming  
-💻 Just created my LeetCode profile to begin DSA from scratch
+💻 Just created my LeetCode profile to begin DSA from scratch  
 
 ---
 
@@ -34,11 +34,48 @@
 
 ---
 
+### 🌟 Featured Projects
+- 🎓 [Student Performance Predictor](https://github.com/aaryan498/ML_Project_SPA) — ML app to predict student outcomes  
+- 🎮 [Rock Paper Scissors Game](https://github.com/aaryan498/CodSoft-Python-Tasks)  
+- 🔐 [Password Generator](https://github.com/aaryan498/CodSoft-Python-Tasks)  
+
+---
+
+### 📊 GitHub Stats
+
+![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryan498&show_icons=true&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aaryan498&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan498&layout=compact&theme=radical)  
+
+---
+
+### 🐍 Contribution Snake
+![GitHub Snake](https://github.com/aaryan498/aaryan498/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 💡 Motto
+_"Code. Learn. Build. Repeat."_  
+
+---
+
+### 🎯 Fun Facts
+- 🏋️‍♂️ Gym rat (balancing fitness + code)  
+- 🎶 Music fuels my coding sprints  
+- ☕ Runs on coffee + curiosity  
+
+---
+
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaryan-kumar-ai-498-coder)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/aaryan498)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/aaryan_498/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaryan-kumar-ai-498-coder)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/aaryan498)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/aaryan_498/)  
+
+![Profile views](https://komarev.com/ghpvc/?username=aaryan498&label=Profile%20Views&color=0e75b6&style=flat)
+
 ---
 
 > “Started with zero commits and infinite curiosity.” 🌱
