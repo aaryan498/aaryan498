@@ -1,5 +1,16 @@
 ### 👋 Hi there, I'm Aaryan!
 
+<div align="center">
+
+  <!-- Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=700&lines=Hey...!+Welcome+to+my+profile!;Hey+There...!+I+am+Aaryan+Kumar" alt="Typing SVG" />
+
+  <!-- Robot GIF (either separate or your composited single GIF) -->
+  <br/>
+  <img src="welcome.gif" alt="Cartoon robot coding" width="420"/>
+
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=🌐+Tech+Explorer;🚀+Aspiring+SDE;🤖+AI%2FML+Enthusiast&multi=true" alt="Typing SVG" />
 </p>
