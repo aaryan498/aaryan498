@@ -1,6 +1,8 @@
 ### 👋 Hi there, I'm Aaryan!
 
-> 💡 AI/ML Enthusiast | Beginner in Python & DSA | Strong in C | Exploring Web Dev with React.js, Git, Tailwind & Node.js
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=🌐+Tech+Explorer;🚀+Aspiring+SDE;🤖+AI%2FML+Enthusiast&multi=true" alt="Typing SVG" />
+</p>
 
 🎓 I'm a B.Tech Computer Science student @ AKGEC, GHAZIABAD  
 🌱 Currently learning Python, Git, GitHub & Web Development  
