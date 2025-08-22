@@ -11,11 +11,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=🌐+Tech+Explorer;🚀+Aspiring+SDE;🤖+AI%2FML+Enthusiast&multi=true" alt="Typing SVG" />
 </p>
 
-🎓 I'm a B.Tech Computer Science student @ AKGEC, GHAZIABAD  
-🌱 Currently learning Python, Git, GitHub & Web Development  
-🧠 Exploring the world of AI & ML (just getting started!)  
-💡 Strong foundation in C programming  
-💻 Just created my LeetCode profile to begin DSA from scratch
+---
+
+## 🌟 A Glimpse Into My Journey
+
+🎓 Pursuing **B.Tech in Computer Science & Engineering** @ AKGEC, Ghaziabad  
+🌱 Transitioned from **Python basics** → now exploring **Data Analysis** & gradually moving towards **Machine Learning**  
+🧠 Passionate about the world of **Artificial Intelligence**, aiming to specialize in **AI/ML** in the future  
+💻 Currently building **beginner-friendly projects** in Data Analysis & ML to strengthen my foundation  
+🌐 Exploring **Web Development** alongside ML — gaining hands-on experience in full-stack fundamentals  
+💡 Strong foundation in **C Programming**, proficient in **Python**, and familiar with **Git/GitHub** & basic web technologies  
+🚀 Always eager to **learn, experiment, and innovate** through projects & challenges
 
 ---
 
