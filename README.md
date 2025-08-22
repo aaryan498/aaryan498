@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=🔊+.+.+.!;💬+Hello+!+!+!;🗣️+I+am+👤+Aaryan+Kumar;📜+Welcome+to+my+profile!+📜" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=💬+Hey+There+.+.+.+🗣️+I+am+👤+Aaryan+Kumar;🔊...+Welcome+to+my+profile!+📝" alt="Typing SVG" />
 
   <br/>
   <img src="3.gif" alt="Cartoon robot coding" width="1500" height="400"/>
