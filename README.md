@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=700&lines=🔊+.+.+.!;💬+Hello+!+!+!;🗣️+I+am+👤+Aaryan+Kumar;📜+Welcome+to+my+profile!+📜" alt="Typing SVG" />
 
   <br/>
-  <img src="2.gif" alt="Cartoon robot coding" width="420"/>
+  <img src="2.gif" alt="Cartoon robot coding" width="1000"/>
 
 </div>
 
