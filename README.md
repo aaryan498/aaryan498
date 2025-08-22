@@ -76,7 +76,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan498&layout=compact&theme=radical)
 
-![GitHub Snake](https://github.com/aaryan498/aaryan498/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aaryan498/aaryan498/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation"/>
+</p>
 
 ---
 
