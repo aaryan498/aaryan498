@@ -19,16 +19,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryan498&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aaryan498&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan498&layout=compact&theme=radical)
-
----
-
 ### 🛠️ Tools & Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -50,6 +40,20 @@
 - Crack DSA step by step on LeetCode
 - Land my first internship in tech
 - Explore AI/ML research in the future
+
+---
+
+### 📊 GitHub Stats
+
+![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryan498&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aaryan498&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan498&layout=compact&theme=radical)
+
+### ⏳ Coding Stats (Last 7 days)
+
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aaryan498&layout=compact&theme=radical)
 
 ---
 
