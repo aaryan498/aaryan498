@@ -88,6 +88,8 @@ Beyond coding, you’ll find me at the gym 🏋️‍♂️, exploring music �
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan498&layout=compact&theme=radical)
 
+[![Aaryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aaryan498&theme=radical)](https://github.com/aaryan498)
+
 ---
 
 ### 🎯 Fun Facts
