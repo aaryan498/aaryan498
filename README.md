@@ -19,6 +19,19 @@
 
 ---
 
+### 🌟 Featured Projects
+
+- 🎓 **Student Performance Predictor Model**  
+  [![GitHub Repo](https://img.shields.io/badge/Repo-Student--Performance--Predictor--Model-blue?style=for-the-badge&logo=github)](https://github.com/aaryan498/STUDENT-PERFORMANCE-PREDICTOR-MODEL)
+
+- ✉️ **Message Encrypter**  
+  [![GitHub Repo](https://img.shields.io/badge/Repo-Message--Encrypter-green?style=for-the-badge&logo=github)](https://github.com/aaryan498/Project-Encoder-Decoder)
+
+- 💻 **CodSoft Internship Project**  
+  [![GitHub Repo](https://img.shields.io/badge/Repo-CodSoft--Internship--Project-purple?style=for-the-badge&logo=github)](https://github.com/aaryan498/CODSOFT)
+
+---
+
 ### 🛠️ Tools & Technologies
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -50,10 +63,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=aaryan498&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan498&layout=compact&theme=radical)
-
-### ⏳ Coding Stats (Last 7 days)
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aaryan498&layout=compact&theme=radical)
 
 ---
 
