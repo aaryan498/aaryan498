@@ -60,10 +60,11 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/aaryan_498/)
 <div align="center">
  
-  <img src="4.gif" alt="Cartoon robot coding" width="1500" height="400"/>
+  <img src="1.gif" alt="Cartoon robot coding" width="1500" height="400"/>
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=🔊+Waiting+for+you+to+connect+.+.+.+!;🤝+Thank+you+!" alt="Typing SVG" />
 </div>
+
 ---
 
 > “Started with zero commits and infinite curiosity.” 🌱
