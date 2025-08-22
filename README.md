@@ -58,6 +58,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaryan-kumar-ai-498-coder)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/aaryan498)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/aaryan_498/)
+
+ <br/>
+  <img src="4.gif" alt="Cartoon robot coding" width="1500" height="400"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=🔊+Waiting+for+you+to+connect+.+.+.+!;🤝+Thank+you+!" alt="Typing SVG" />
+
 ---
 
 > “Started with zero commits and infinite curiosity.” 🌱
