@@ -42,6 +42,16 @@ Beyond coding, you’ll find me at the gym 🏋️‍♂️, exploring music �
 - 💻 **CodSoft Internship Project**  
   [![GitHub Repo](https://img.shields.io/badge/Repo-CodSoft--Internship--Project-purple?style=for-the-badge&logo=github)](https://github.com/aaryan498/CODSOFT)
 
+- 🌐 [Try Student Performance Predictor](https://your-deployed-app-link)
+
+---
+
+### 🏆 Highlights
+- 🥇 Completed multiple internships (CodSoft, CodeAlpha)  
+- 🚀 Deployed my **first ML Web App**: [Student Performance Predictor](https://your-streamlit-link)  
+- 📜 Working on my **first research paper in ML**  
+- 💡 Built 5+ beginner-to-intermediate projects in Python, ML, and Web Dev
+
 ---
 
 ### 🛠️ Tools & Technologies
