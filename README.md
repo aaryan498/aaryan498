@@ -65,7 +65,9 @@
 - 💼 Land paid internships at recognized companies  
 - 🤖 Continuously explore and grow in **AI & ML** (my ultimate career path)  
 - 🏗️ Build **industry-level projects** that solve real-world problems  
-- 🔑 Master **DSA fundamentals** to crack industrial-level coding challenges  
+- 🔑 Master **DSA fundamentals** to crack industrial-level coding challenges
+
+---
 
 ### ✨ Motto  
 > _"Work out the body. Debug the mind. Upgrade the future."_
@@ -104,8 +106,5 @@
 </div>
 
 ---
-
-### 💡 Motto
-_"Work out the body. Debug the mind. Upgrade the future."_
 
 > “Started with zero commits and infinite curiosity.” 🌱
