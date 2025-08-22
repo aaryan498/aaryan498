@@ -13,6 +13,12 @@
 
 ---
 
+### 👨‍💻 About Me
+I’m Aaryan, a tech enthusiast who loves solving problems through code.  
+Beyond coding, you’ll find me at the gym 🏋️‍♂️, exploring music 🎧, or deep-diving into AI/ML research 🤖.
+
+---
+
 ## 🌟 A Glimpse Into My Journey
 
 🎓 Pursuing **B.Tech in Computer Science & Engineering** @ AKGEC, Ghaziabad  
