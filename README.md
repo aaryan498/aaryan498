@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=700&lines=🔊+.+.+.;💬+Hello+!+!+!;📜+Welcome+to+my+profile!+📜;🗣️+"I+am+👤+Aaryan+Kumar";" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&center=true&vCenter=true&width=700&lines=🔊+.+.+.;💬+Hello+!+!+!;📜+Welcome+to+my+profile!+📜;🗣️+"I+am+👤+Aaryan+Kumar"+" alt="Typing SVG" />
 
   <!-- Robot GIF (either separate or your composited single GIF) -->
   <br/>
