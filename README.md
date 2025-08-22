@@ -34,15 +34,14 @@ Beyond coding, you’ll find me at the gym 🏋️‍♂️, exploring music �
 ### 🌟 Featured Projects
 
 - 🎓 **Student Performance Predictor Model**  
-  [![GitHub Repo](https://img.shields.io/badge/Repo-Student--Performance--Predictor--Model-blue?style=for-the-badge&logo=github)](https://github.com/aaryan498/STUDENT-PERFORMANCE-PREDICTOR-MODEL)
+  [![GitHub Repo](https://img.shields.io/badge/Repo-Student--Performance--Predictor--Model-blue?style=for-the-badge&logo=github)](https://github.com/aaryan498/STUDENT-PERFORMANCE-PREDICTOR-MODEL)  
+  [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=streamlit&logoColor=white)](https://student-performance-predictor-model-aaryan.streamlit.app/)
 
 - ✉️ **Message Encrypter**  
   [![GitHub Repo](https://img.shields.io/badge/Repo-Message--Encrypter-green?style=for-the-badge&logo=github)](https://github.com/aaryan498/Project-Encoder-Decoder)
 
 - 💻 **CodSoft Internship Project**  
   [![GitHub Repo](https://img.shields.io/badge/Repo-CodSoft--Internship--Project-purple?style=for-the-badge&logo=github)](https://github.com/aaryan498/CODSOFT)
-
-- 🌐 [Try Student Performance Predictor](https://your-deployed-app-link)
 
 ---
 
