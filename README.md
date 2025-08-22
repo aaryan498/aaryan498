@@ -78,6 +78,14 @@
 
 ---
 
+### 🎯 Fun Facts
+- 🎮 Gamer at heart (but now I level up in code more than consoles 😅)  
+- 🎧 Music addict — headphones on, world off  
+- 📚 Forever curious, always learning something new  
+- 🏋️‍♂️ Gym mode: “Ctrl + Lift + Repeat”
+
+---
+
 ### 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaryan-kumar-ai-498-coder)  
@@ -92,6 +100,9 @@
 </div>
 
 ---
+
+### 💡 Motto
+_"Work out the body. Debug the mind. Upgrade the future."_
 
 > “Started with zero commits and infinite curiosity.” 🌱
 > 
