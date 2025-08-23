@@ -95,6 +95,18 @@ Beyond coding, you’ll find me at the gym 🏋️‍♂️, exploring music �
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <a href="https://github.com/aaryan498">
+    <img src="https://komarev.com/ghpvc/?username=aaryan498&style=flat-square&color=blue" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/aaryan498?tab=followers">
+    <img src="https://img.shields.io/github/followers/aaryan498?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/aaryan498">
+    <img src="https://img.shields.io/github/stars/aaryan498?label=Stars&style=social" alt="GitHub Stars"/>
+  </a>
+</p>
+
 ![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryan498&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=aaryan498&theme=radical)
