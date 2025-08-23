@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=100&section=header&fontSize=40&animation=twinkling&fontColor=000000" alt="banner" />
+</p>
+
 <div align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=💬+Hey+There+.+.+.+!;+🗣️+I+am+👤+Aaryan+Kumar+👤;🔊...+Welcome+to+my+profile!+📝" alt="Typing SVG" />
