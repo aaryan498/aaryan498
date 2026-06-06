@@ -8,7 +8,18 @@
 
 </div>
 
----
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Software%20Developer-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Developer-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Developer-121212?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-121212?style=for-the-badge" />
+</p>
+
+I'm a Backend-Focused Full-Stack Developer and Open Source Contributor passionate about building scalable software systems, AI-powered applications, and modern web platforms. My work centers around backend architecture, performance optimization, reliability, and intelligent product development.
+I enjoy working with distributed systems, automation, and applied machine learning to create practical solutions that solve real-world problems. Beyond building products, I actively contribute to open source, collaborate within large codebases, and continuously explore better ways to design, optimize, and scale software.
+
+Driven by curiosity and impact, I focus on shipping meaningful solutions, improving developer experience, and building technology that delivers measurable value to users and businesses.
 
 ### 👨‍💻 About Me
 I’m Aaryan, a tech enthusiast who loves solving problems through code.  
