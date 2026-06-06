@@ -33,7 +33,11 @@ I enjoy working with distributed systems, automation, and applied machine learni
 
 > Driven by curiosity and impact, I focus on shipping meaningful solutions, improving developer experience, and building technology that delivers measurable value to users and businesses.
 
----
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br />
 
 ## My Engineering Toolkit
 
@@ -44,7 +48,11 @@ I enjoy working with distributed systems, automation, and applied machine learni
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,bash,powershell,md,latex,html,css,tailwind,react,nextjs,redux,vite,svg,nodejs,express,django,fastapi,nginx,mongodb,mysql,postgres,firebase,tensorflow,pytorch,aws,azure,gcp,docker,kubernetes,githubactions,gitlab,jenkins,vercel,netlify,git,github,postman,npm,yarn,replit,vscode,figma,vitest&perline=8" />
 </p>
 
----
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br />
 
 ## Featured Projects
 
