@@ -255,6 +255,32 @@ class Aaryan:
 
 ---
 
+## Beyond The Code
+
+```terminal
+aaryan@developer:~$ cat profile.conf
+
+[Goal]
+Aspiring Software Development Engineer (SDE)
+
+[Focus]
+Backend Engineering • AI Systems • Open Source
+
+[Mindset]
+Learn Continuously
+Build Consistently
+Ship Meaningful Solutions
+
+[Fun_Facts]
+Movies    : Professional plot analyzer
+Gaming    : From grinding levels to grinding code
+Music     : Preferred debugging companion
+
+aaryan@developer:~$ echo $PHILOSOPHY
+
+Design • Build • Scale • Ship
+```
+
 ### 🎯 Fun Facts
 - 🎮 Gamer at heart (but now I level up in code more than consoles 😅)  
 - 🎧 Music addict — headphones on, world off  
