@@ -197,12 +197,6 @@ class Aaryan:
 ![](https://github-contributor-stats.vercel.app/api?username=aaryan498&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=aaryan498&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### ✨ Motto  
-> _"Work out the body. Debug the mind. Upgrade the future."_
-
----
 
 ## Beyond The Code
 
@@ -227,14 +221,8 @@ Music     : Preferred debugging companion
 
 aaryan@developer:~$ echo $PHILOSOPHY
 
-Design • Build • Scale • Ship
+> _"Work out the body. Debug the mind. Upgrade the future."_
 ```
-
-### 🎯 Fun Facts
-- 🎮 Gamer at heart (but now I level up in code more than consoles 😅)  
-- 🎧 Music addict — headphones on, world off  
-- 📚 Forever curious, always learning something new  
-- 🏋️‍♂️ Gym mode: “Ctrl + Lift + Repeat”
 
 ---
 
