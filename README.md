@@ -180,6 +180,25 @@ class Aaryan:
         return "Design • Build • Scale • Ship"
 ```
 
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aaryan498&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=aaryan498&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aaryan498&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aaryan498&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aaryan498&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=aaryan498&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ### 🏆 Highlights
 - 🥇 Completed multiple internships (CodSoft, CodeAlpha)  
 - 🚀 Deployed my **first ML Web App**: [Student Performance Predictor](https://your-streamlit-link)  
