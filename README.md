@@ -133,6 +133,53 @@ Full-stack commerce solution supporting product management, authentication, user
 
 ---
 
+## Developer Snapshot
+
+```python
+class Aaryan:
+
+    def __init__(self):
+
+        self.education = {
+            "degree"    : "B.Tech in Computer Science & Engineering",
+            "status"    : "Pre-Final Year Undergraduate",
+            "academics" : "Consistently Maintaining 8.5+ SGPA"
+        }
+
+        self.career_tracks = [
+            "Software Engineering",
+            "Backend Development",
+            "Machine Learning",
+            "Open Source"
+        ]
+
+        self.highlights = [
+            "Grand Finalist — Smart India Hackathon 2025",
+            "1500+ LeetCode Contest Rating",
+            "Built Full-Stack & AI-Driven Applications",
+            "Hands-On Experience with Large Codebases",
+            "Active Open Source Contributor"
+        ]
+
+        self.current_focus = [
+            "Backend Architecture",
+            "AI Integration",
+            "System Design",
+            "Data Structures & Algorithms",
+            "Scalable Software Systems"
+        ]
+
+        self.approach = [
+            "Learn Continuously",
+            "Build Consistently",
+            "Collaborate Effectively",
+            "Ship Meaningful Solutions"
+        ]
+
+    def philosophy(self):
+        return "Design • Build • Scale • Ship"
+```
+
 ### 🏆 Highlights
 - 🥇 Completed multiple internships (CodSoft, CodeAlpha)  
 - 🚀 Deployed my **first ML Web App**: [Student Performance Predictor](https://your-streamlit-link)  
@@ -184,21 +231,6 @@ Full-stack commerce solution supporting product management, authentication, user
 - 🎧 Music addict — headphones on, world off  
 - 📚 Forever curious, always learning something new  
 - 🏋️‍♂️ Gym mode: “Ctrl + Lift + Repeat”
-
----
-
-### 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaryan-kumar-ai-498-coder)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/aaryan498)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/aaryan_498/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kumaraaryan498)
-<div align="center">
- 
-  <img src="1.gif" alt="Cartoon robot coding" width="1500" height="400"/>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=🔊+Waiting+for+you+to+connect+.+.+.+!;🤝+Thank+you+!" alt="Typing SVG" />
-</div>
 
 ---
 
