@@ -130,6 +130,10 @@ Full-stack commerce solution supporting product management, authentication, user
 </tr>
 </table>
 
+<p align="center">
+![GitHub Streak](https://streak-stats.demolab.com?user=aaryan498&theme=radical)
+</p>
+
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg)
 
 <br/>
@@ -185,6 +189,8 @@ class Aaryan:
 ```
 
 ---
+
+[![Aaryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aaryan498&theme=radical)](https://github.com/aaryan498)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=aaryan498&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
