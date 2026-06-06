@@ -19,7 +19,27 @@
 I'm a Backend-Focused Full-Stack Developer and Open Source Contributor passionate about building scalable software systems, AI-powered applications, and modern web platforms. My work centers around backend architecture, performance optimization, reliability, and intelligent product development.
 I enjoy working with distributed systems, automation, and applied machine learning to create practical solutions that solve real-world problems. Beyond building products, I actively contribute to open source, collaborate within large codebases, and continuously explore better ways to design, optimize, and scale software.
 
+<p align="center">
+  <a href="https://linkedin.com/in/aaryan-kumar-ai-498-coder">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
+  <a href="https://discord.com/users/aaryan498">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <a href="mailto:kumaraaryan498@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/aaryan498">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/its_aaryan.exe">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 > Driven by curiosity and impact, I focus on shipping meaningful solutions, improving developer experience, and building technology that delivers measurable value to users and businesses.
 ---
