@@ -27,6 +27,10 @@ I enjoy working with distributed systems, automation, and applied machine learni
 <a href="https://instagram.com/its_aaryan.exe"><img src="https://skillicons.dev/icons?i=instagram" width="50"></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aaryan498&label=PROFILE+VIEWS&color=000000&style=for-the-badge" />
+</p>
+
 > Driven by curiosity and impact, I focus on shipping meaningful solutions, improving developer experience, and building technology that delivers measurable value to users and businesses.
 
 ---
