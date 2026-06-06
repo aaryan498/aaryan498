@@ -233,5 +233,3 @@ aaryan@developer:~$ echo $PHILOSOPHY
     width="100%"
   />
 </p>
-
-> “Started with zero commits and infinite curiosity.” 🌱
