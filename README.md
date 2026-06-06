@@ -44,6 +44,15 @@ I enjoy working with distributed systems, automation, and applied machine learni
 > Driven by curiosity and impact, I focus on shipping meaningful solutions, improving developer experience, and building technology that delivers measurable value to users and businesses.
 ---
 
+## My Engineering Toolkit
+
+> *Technologies, frameworks, cloud platforms, developer tools, and infrastructure I work with...
+<br>
+<!-- skillicons here -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,bash,powershell,md,latex,html,css,tailwind,bootstrap,react,nextjs,redux,vite,svg,nodejs,express,django,flask,fastapi,dotnet,nginx,mongodb,mysql,postgres,supabase,firebase,ai,tensorflow,pytorch,aws,azure,gcp,cloudflare,docker,kubernetes,githubactions,gitlab,jenkins,vercel,netlify,git,github,postman,npm,yarn,replit,vscode,visualstudio,figma,selenium,vitest,gmail,discord,stackoverflow&perline=8" />
+</p>
+
 ## 🌟 A Glimpse Into My Journey
 
 🎓 Pursuing **B.Tech in Computer Science & Engineering** @ AKGEC, Ghaziabad  
@@ -80,9 +89,6 @@ I enjoy working with distributed systems, automation, and applied machine learni
 
 ## 🛠️ Tools & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,typescript,react,redux,nodejs,express,django,mongodb,mysql,firebase,docker,kubernetes,aws,linux,git,github,postman,vscode,replit,vercel,netlify,figma,npm,tailwind,streamlit&perline=8" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
