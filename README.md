@@ -19,6 +19,14 @@
 I'm a Backend-Focused Full-Stack Developer and Open Source Contributor passionate about building scalable software systems, AI-powered applications, and modern web platforms. My work centers around backend architecture, performance optimization, reliability, and intelligent product development.
 I enjoy working with distributed systems, automation, and applied machine learning to create practical solutions that solve real-world problems. Beyond building products, I actively contribute to open source, collaborate within large codebases, and continuously explore better ways to design, optimize, and scale software.
 
+<br><p align="center">
+  <img
+    src="https://raw.githubusercontent.com/aaryan498/aaryan498/main/assets/engineering-philosophy.png"
+    alt="Engineering Philosophy"
+    width="100%"
+  />
+</p>
+
 Driven by curiosity and impact, I focus on shipping meaningful solutions, improving developer experience, and building technology that delivers measurable value to users and businesses.
 
 ### 👨‍💻 About Me
