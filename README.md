@@ -40,16 +40,6 @@ I enjoy working with distributed systems, automation, and applied machine learni
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,bash,powershell,md,latex,html,css,tailwind,react,nextjs,redux,vite,svg,nodejs,express,django,fastapi,nginx,mongodb,mysql,postgres,firebase,tensorflow,pytorch,aws,azure,gcp,docker,kubernetes,githubactions,gitlab,jenkins,vercel,netlify,git,github,postman,npm,yarn,replit,vscode,figma,vitest&perline=8" />
 </p>
 
-## 🌟 A Glimpse Into My Journey
-
-🎓 Pursuing **B.Tech in Computer Science & Engineering** @ AKGEC, Ghaziabad  
-🌱 Transitioned from **Python basics** → now exploring **Data Analysis** & gradually moving towards **Machine Learning**  
-🧠 Passionate about the world of **Artificial Intelligence**, aiming to specialize in **AI/ML** in the future  
-💻 Currently building **beginner-friendly projects** in Data Analysis & ML to strengthen my foundation  
-🌐 Exploring **Web Development** alongside ML — gaining hands-on experience in full-stack fundamentals  
-💡 Strong foundation in **C Programming**, proficient in **Python**, and familiar with **Git/GitHub** & basic web technologies  
-🚀 Always eager to **learn, experiment, and innovate** through projects & challenges
-
 ---
 
 ### 🌟 Featured Projects
