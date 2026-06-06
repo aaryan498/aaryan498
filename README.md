@@ -45,7 +45,7 @@ I enjoy working with distributed systems, automation, and applied machine learni
 ## Problem Solving Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME">
+  <a href="https://leetcode.com/u/aaryan_498_official">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
@@ -60,6 +60,10 @@ I enjoy working with distributed systems, automation, and applied machine learni
   <a href="https://www.hackerrank.com/YOUR_HACKERRANK_HANDLE">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/aaryan_498_official?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ### 🌟 Featured Projects
