@@ -131,7 +131,7 @@ Full-stack commerce solution supporting product management, authentication, user
 </table>
 
 <p align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=aaryan498&theme=radical)
+  <img src="https://streak-stats.demolab.com?user=aaryan498&theme=radical" />
 </p>
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg)
@@ -201,30 +201,6 @@ class Aaryan:
 
 ### ✨ Motto  
 > _"Work out the body. Debug the mind. Upgrade the future."_
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/aaryan498">
-    <img src="https://komarev.com/ghpvc/?username=aaryan498&style=flat-square&color=blue" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/aaryan498?tab=followers">
-    <img src="https://img.shields.io/github/followers/aaryan498?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/aaryan498">
-    <img src="https://img.shields.io/github/stars/aaryan498?label=Stars&style=social" alt="GitHub Stars"/>
-  </a>
-</p>
-
-![Aaryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryan498&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aaryan498&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan498&layout=compact&theme=radical)
-
-[![Aaryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aaryan498&theme=radical)](https://github.com/aaryan498)
 
 ---
 
