@@ -66,17 +66,66 @@ I enjoy working with distributed systems, automation, and applied machine learni
   <img src="https://leetcard.jacoblin.cool/aaryan_498_official?theme=dark&font=Karma&ext=contest" />
 </p>
 
-### 🌟 Featured Projects
+## Featured Projects
 
-- 🎓 **Student Performance Predictor Model**  
-  [![GitHub Repo](https://img.shields.io/badge/Repo-Student--Performance--Predictor--Model-blue?style=for-the-badge&logo=github)](https://github.com/aaryan498/STUDENT-PERFORMANCE-PREDICTOR-MODEL)  
-  [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=streamlit&logoColor=white)](https://student-performance-predictor-model-aaryan.streamlit.app/)
+<table>
+<tr>
+<td width="50%">
 
-- ✉️ **Message Encrypter**  
-  [![GitHub Repo](https://img.shields.io/badge/Repo-Message--Encrypter-green?style=for-the-badge&logo=github)](https://github.com/aaryan498/Project-Encoder-Decoder)
+### 🧠 WiseMindOS
+AI-powered productivity and life management platform focused on intelligent insights, goal tracking, analytics, journaling, and personal growth.
 
-- 💻 **CodSoft Internship Project**  
-  [![GitHub Repo](https://img.shields.io/badge/Repo-CodSoft--Internship--Project-purple?style=for-the-badge&logo=github)](https://github.com/aaryan498/CODSOFT)
+**Tech Stack:** React • Node.js • Express • MongoDB • AI APIs
+
+<a href="https://github.com/aaryan498/WiseMindOS">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎯 InterVuGrid AI
+AI-driven interview preparation platform designed to help users practice, evaluate, and improve interview performance through intelligent feedback.
+
+**Tech Stack:** MERN • AI Integration • Authentication • Analytics
+
+<a href="https://github.com/aaryan498/InterVuGrid-AI">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌐 AuraX Social Media
+Modern social networking platform featuring authentication, user interactions, content sharing, and scalable backend architecture.
+
+**Tech Stack:** React • Node.js • MongoDB • JWT
+
+<a href="https://github.com/aaryan498/AuraX-Social-Media-App">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🛒 E-Commerce Platform
+Full-stack commerce solution supporting product management, authentication, user workflows, and responsive user experience.
+
+**Tech Stack:** MERN Stack • REST APIs • Database Design
+
+<a href="https://github.com/aaryan498/E-Commerce-Website">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -85,46 +134,6 @@ I enjoy working with distributed systems, automation, and applied machine learni
 - 🚀 Deployed my **first ML Web App**: [Student Performance Predictor](https://your-streamlit-link)  
 - 📜 Working on my **first research paper in ML**  
 - 💡 Built 5+ beginner-to-intermediate projects in Python, ML, and Web Dev
-
----
-
-## 🛠️ Tools & Technologies
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
-</p>
-
-### 🛠️ Tools & Technologies
-
-#### 🔹 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🔹 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-#### 🔹 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
 ---
 
