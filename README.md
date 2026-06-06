@@ -50,7 +50,7 @@ I enjoy working with distributed systems, automation, and applied machine learni
 <br>
 <!-- skillicons here -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,bash,powershell,md,latex,html,css,tailwind,bootstrap,react,nextjs,redux,vite,svg,nodejs,express,django,flask,fastapi,dotnet,nginx,mongodb,mysql,postgres,supabase,firebase,ai,tensorflow,pytorch,aws,azure,gcp,cloudflare,docker,kubernetes,githubactions,gitlab,jenkins,vercel,netlify,git,github,postman,npm,yarn,replit,vscode,visualstudio,figma,selenium,vitest,gmail,discord,stackoverflow&perline=8" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,bash,powershell,md,latex,html,css,tailwind,react,nextjs,redux,vite,svg,nodejs,express,django,fastapi,nginx,mongodb,mysql,postgres,firebase,tensorflow,pytorch,aws,azure,gcp,docker,kubernetes,githubactions,gitlab,jenkins,vercel,netlify,git,github,postman,npm,yarn,replit,vscode,figma,vitest&perline=8" />
 </p>
 
 ## 🌟 A Glimpse Into My Journey
