@@ -80,7 +80,7 @@ An AI-powered productivity operating system designed to help individuals plan, e
 `Razorpay`
 `Vercel` `Render`
 
-<a href="YOUR_WISEMINDOS_DEMO">
+<a href="https://wise-mind-os.vercel.app">
   <img src="https://img.shields.io/badge/Explore_Product-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -122,7 +122,7 @@ An AI-powered interview preparation platform that simulates real-world interview
 `Razorpay`
 `Context API`
 
-<a href="YOUR_INTERVUGRID_DEMO">
+<a href="https://intervu-grid-ai.vercel.app">
   <img src="https://img.shields.io/badge/Explore_Product-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -170,7 +170,7 @@ A modern social networking platform focused on content sharing, real-time commun
 `Vercel`
 `Render`
 
-<a href="YOUR_VANILLA_DEMO">
+<a href="https://aura-x-social-media-app.vercel.app">
   <img src="https://img.shields.io/badge/Explore_Product-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -218,7 +218,7 @@ A full-stack e-commerce platform engineered with secure authentication, role-bas
 `Vercel`
 `Render`
 
-<a href="YOUR_COBRALITE_DEMO">
+<a href="https://cobra-lite.vercel.app">
   <img src="https://img.shields.io/badge/Explore_Product-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
