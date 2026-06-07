@@ -33,11 +33,7 @@ I enjoy working with distributed systems, automation, and applied machine learni
 
 > Driven by curiosity and impact, I focus on shipping meaningful solutions, improving developer experience, and building technology that delivers measurable value to users and businesses.
 
-<br />
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br />
 
 ## My Engineering Toolkit
 > *Technologies, frameworks, cloud platforms, developer tools, and infrastructure I work with...*
@@ -48,11 +44,7 @@ I enjoy working with distributed systems, automation, and applied machine learni
   <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,bash,powershell,md,latex,html,css,tailwind,react,nextjs,redux,vite,svg,nodejs,express,django,fastapi,nginx,mongodb,mysql,postgres,firebase,tensorflow,pytorch,aws,azure,gcp,docker,kubernetes,githubactions,gitlab,jenkins,vercel,netlify,git,github,postman,npm,yarn,replit,vscode,figma,vitest&perline=8" />
 </p>
 
-<br />
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br />
 
 ## Selected Work
 > *A collection of products and systems built to solve real-world problems through software and intelligent automation.*
@@ -244,11 +236,7 @@ A full-stack e-commerce platform engineered with secure authentication, role-bas
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg)
 
-<br />
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br />
 
 ## Developer Snapshot
 > *The foundation, focus, and milestones shaping my growth as a software engineer.*
@@ -298,11 +286,7 @@ class Aaryan:
         return "Design • Build • Scale • Ship"
 ```
 
-<br />
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br />
 
 ## Developer Analytics
 > *Insights into my coding activity, contribution patterns, and engineering consistency over time.*
@@ -313,11 +297,7 @@ class Aaryan:
 
 ![](https://github-contributor-stats.vercel.app/api?username=aaryan498&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
-<br />
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br />
 
 ## Algorithmic Practice
 > *Strengthening algorithmic thinking and problem-solving through consistent practice and competitive challenges.*
@@ -344,11 +324,7 @@ class Aaryan:
   <img src="https://leetcard.jacoblin.cool/aaryan_498_official?theme=dark&font=Karma&ext=contest" />
 </p>
 
-<br />
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br />
 
 ## Beyond The Code
 
@@ -377,11 +353,8 @@ aaryan@developer:~$ echo $PHILOSOPHY
 > _"Work out the body. Debug the mind. Upgrade the future."_
 ```
 
-<br />
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br />
 <p align="center">
   <img
     src="IMG_20260607_100057.png"
