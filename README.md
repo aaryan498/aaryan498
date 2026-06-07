@@ -64,6 +64,8 @@ I enjoy working with distributed systems, automation, and applied machine learni
 
 An AI-powered productivity operating system designed to help individuals plan, execute, and measure long-term personal growth through structured goal management, habit tracking, analytics, and intelligent decision support.
 
+**Focus Areas:** AI Integration • Productivity Systems • Analytics • Backend Architecture
+
 **Key Features**
 
 - Multi-level Goal & Sub-Goal Planning
@@ -76,19 +78,21 @@ An AI-powered productivity operating system designed to help individuals plan, e
 - FutureTwin AI Assistant for Personalized Guidance
 - Progress Monitoring & Performance Insights
 
-**Technology Stack**
+**Engineering Stack**
 
 `React` `Node.js` `Express` `MongoDB`
 `Context API` `JWT`
 `ImageKit` `Multer`
-`Razorpay` `Vercel` `Render`
+`OpenRouter API`
+`Razorpay`
+`Vercel` `Render`
 
 <a href="YOUR_WISEMINDOS_DEMO">
-  <img src="https://img.shields.io/badge/Live_Demo-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore_Product-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://github.com/aaryan498/WiseMindOS">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -98,6 +102,8 @@ An AI-powered productivity operating system designed to help individuals plan, e
 ### InterVuGrid.AI
 
 An AI-powered interview preparation platform that simulates real-world interview experiences, evaluates candidate performance, and provides actionable feedback to accelerate career readiness.
+
+**Focus Areas:** AI Systems • Resume Intelligence • Authentication • Candidate Analytics
 
 **Key Features**
 
@@ -112,22 +118,23 @@ An AI-powered interview preparation platform that simulates real-world interview
 - ATS-Friendly Resume Builder
 - Job Discovery System *(Planned)*
 
-**Technology Stack**
+**Engineering Stack**
 
 `React` `Redux`
 `Node.js` `Express`
 `MongoDB`
 `Google OAuth`
 `ImageKit`
+`OpenRouter API`
 `Razorpay`
 `Context API`
 
 <a href="YOUR_INTERVUGRID_DEMO">
-  <img src="https://img.shields.io/badge/Live_Demo-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore_Product-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://github.com/aaryan498/InterVuGrid-AI">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -139,6 +146,8 @@ An AI-powered interview preparation platform that simulates real-world interview
 ### Vanilla
 
 A modern social networking platform focused on content sharing, real-time communication, and community engagement through scalable backend services and interactive user experiences.
+
+**Focus Areas:** Real-Time Systems • WebRTC • Social Platforms • Media Processing
 
 **Key Features**
 
@@ -153,13 +162,13 @@ A modern social networking platform focused on content sharing, real-time commun
 - Notification System
 - Media Management Pipeline
 
-**Technology Stack**
+**Engineering Stack**
 
 `React`
 `Node.js`
 `Express`
 `MongoDB`
-`WebSockets`
+`Socket.IO`
 `WebRTC`
 `Clerk`
 `Cloudinary`
@@ -169,11 +178,11 @@ A modern social networking platform focused on content sharing, real-time commun
 `Render`
 
 <a href="YOUR_VANILLA_DEMO">
-  <img src="https://img.shields.io/badge/Live_Demo-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore_Product-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://github.com/aaryan498/AuraX-Social-Media-App">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -183,6 +192,8 @@ A modern social networking platform focused on content sharing, real-time commun
 ### CobraLite Commerce
 
 A full-stack e-commerce platform engineered with secure authentication, role-based access control, payment processing, and administrative management capabilities.
+
+**Focus Areas:** RBAC • Payment Systems • Commerce Workflows • REST APIs
 
 **Key Features**
 
@@ -199,7 +210,7 @@ A full-stack e-commerce platform engineered with secure authentication, role-bas
 - Administrative Dashboard
 - Product & User Management
 
-**Technology Stack**
+**Engineering Stack**
 
 `React`
 `Node.js`
@@ -215,18 +226,16 @@ A full-stack e-commerce platform engineered with secure authentication, role-bas
 `Render`
 
 <a href="YOUR_COBRALITE_DEMO">
-  <img src="https://img.shields.io/badge/Live_Demo-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explore_Product-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://github.com/aaryan498/E-Commerce-Website">
-  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 </tr>
 </table>
-
-
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aaryan498&theme=radical" />
