@@ -244,8 +244,6 @@ A full-stack e-commerce platform engineered with secure authentication, role-bas
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg)
 
-<br/>
-
 <br />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -384,8 +382,7 @@ aaryan@developer:~$ echo $PHILOSOPHY
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br />
-
-<br><p align="center">
+<p align="center">
   <img
     src="IMG_20260607_100057.png"
     alt="Engineering Philosophy"
