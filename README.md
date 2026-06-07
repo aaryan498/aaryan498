@@ -54,65 +54,179 @@ I enjoy working with distributed systems, automation, and applied machine learni
 
 <br />
 
-## Featured Projects
+## Selected Work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 WiseMindOS
-AI-powered productivity and life management platform focused on intelligent insights, goal tracking, analytics, journaling, and personal growth.
+### WiseMindOS
 
-**Tech Stack:** React • Node.js • Express • MongoDB • AI APIs
+An AI-powered productivity operating system designed to help individuals plan, execute, and measure long-term personal growth through structured goal management, habit tracking, analytics, and intelligent decision support.
+
+**Key Features**
+
+- Multi-level Goal & Sub-Goal Planning
+- Daily Task Management System
+- 21-Day & Long-Term Habit Tracking
+- Personal Knowledge Management Library
+- Notebook & Page-Based Note Taking
+- Dedicated Focus Room with Pomodoro Sessions
+- Productivity Analytics Dashboard
+- FutureTwin AI Assistant for Personalized Guidance
+- Progress Monitoring & Performance Insights
+
+**Technology Stack**
+
+`React` `Node.js` `Express` `MongoDB`
+`Context API` `JWT`
+`ImageKit` `Multer`
+`Razorpay` `Vercel` `Render`
+
+<a href="YOUR_WISEMINDOS_DEMO">
+  <img src="https://img.shields.io/badge/Live_Demo-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 <a href="https://github.com/aaryan498/WiseMindOS">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 InterVuGrid AI
-AI-driven interview preparation platform designed to help users practice, evaluate, and improve interview performance through intelligent feedback.
+### InterVuGrid.AI
 
-**Tech Stack:** MERN • AI Integration • Authentication • Analytics
+An AI-powered interview preparation platform that simulates real-world interview experiences, evaluates candidate performance, and provides actionable feedback to accelerate career readiness.
+
+**Key Features**
+
+- AI Resume Parsing & Analysis
+- Real-Time Interview Simulation
+- Technical Interview Workflows
+- HR & Behavioral Interview Modules
+- Coding Assessment Support
+- AI-Generated Feedback
+- Downloadable Performance Reports
+- Interview History & Progress Tracking
+- ATS-Friendly Resume Builder
+- Job Discovery System *(Planned)*
+
+**Technology Stack**
+
+`React` `Redux`
+`Node.js` `Express`
+`MongoDB`
+`Google OAuth`
+`ImageKit`
+`Razorpay`
+`Context API`
+
+<a href="YOUR_INTERVUGRID_DEMO">
+  <img src="https://img.shields.io/badge/Live_Demo-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 <a href="https://github.com/aaryan498/InterVuGrid-AI">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 AuraX Social Media
-Modern social networking platform featuring authentication, user interactions, content sharing, and scalable backend architecture.
+### Vanilla
 
-**Tech Stack:** React • Node.js • MongoDB • JWT
+A modern social networking platform focused on content sharing, real-time communication, and community engagement through scalable backend services and interactive user experiences.
+
+**Key Features**
+
+- Secure User Authentication
+- User Profiles & Social Graph
+- Post Creation & Content Sharing
+- Likes, Comments & Engagement System
+- Reel & Media Uploads
+- Real-Time Messaging
+- Voice Calling
+- Video Calling
+- Notification System
+- Media Management Pipeline
+
+**Technology Stack**
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+`WebSockets`
+`WebRTC`
+`Clerk`
+`Cloudinary`
+`ImageKit`
+`Context API`
+`Vercel`
+`Render`
+
+<a href="YOUR_VANILLA_DEMO">
+  <img src="https://img.shields.io/badge/Live_Demo-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 <a href="https://github.com/aaryan498/AuraX-Social-Media-App">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛒 E-Commerce Platform
-Full-stack commerce solution supporting product management, authentication, user workflows, and responsive user experience.
+### CobraLite Commerce
 
-**Tech Stack:** MERN Stack • REST APIs • Database Design
+A full-stack e-commerce platform engineered with secure authentication, role-based access control, payment processing, and administrative management capabilities.
+
+**Key Features**
+
+- JWT Authentication
+- Role-Based Access Control (Admin/User)
+- Product Catalog Management
+- Shopping Cart System
+- Wishlist Functionality
+- Secure Checkout Flow
+- Razorpay Integration
+- Stripe Integration
+- Order Management
+- Inventory Management
+- Administrative Dashboard
+- Product & User Management
+
+**Technology Stack**
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+`JWT`
+`Cloudinary`
+`ImageKit`
+`Razorpay`
+`Stripe`
+`Context API`
+`Vercel`
+`Render`
+
+<a href="YOUR_COBRALITE_DEMO">
+  <img src="https://img.shields.io/badge/Live_Demo-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 <a href="https://github.com/aaryan498/E-Commerce-Website">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 </tr>
 </table>
+
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aaryan498&theme=radical" />
