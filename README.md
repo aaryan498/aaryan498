@@ -316,7 +316,8 @@ class Aaryan:
 
 <br />
 
-## Problem Solving Profiles
+## Algorithmic Practice
+> *Strengthening algorithmic thinking and problem-solving through consistent practice and competitive challenges.*
 
 <p align="center">
   <a href="https://leetcode.com/u/aaryan_498_official">
@@ -347,6 +348,7 @@ class Aaryan:
 <br />
 
 ## Beyond The Code
+> *Insights into my coding activity, contribution patterns, and engineering consistency over time.*
 
 ```terminal
 aaryan@developer:~$ cat profile.conf
