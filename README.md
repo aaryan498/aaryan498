@@ -387,7 +387,7 @@ aaryan@developer:~$ echo $PHILOSOPHY
 
 <br><p align="center">
   <img
-    src="file_00000000518871fa8a40084c804fe6e7.png"
+    src="IMG_20260607_100057.png"
     alt="Engineering Philosophy"
     width="100%"
   />
