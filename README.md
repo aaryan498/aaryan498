@@ -40,8 +40,8 @@ I enjoy working with distributed systems, automation, and applied machine learni
 <br />
 
 ## My Engineering Toolkit
+> *Technologies, frameworks, cloud platforms, developer tools, and infrastructure I work with...*
 
-> *Technologies, frameworks, cloud platforms, developer tools, and infrastructure I work with...
 <br>
 <!-- skillicons here -->
 <p align="center">
@@ -55,6 +55,7 @@ I enjoy working with distributed systems, automation, and applied machine learni
 <br />
 
 ## Selected Work
+> *A collection of products and systems built to solve real-world problems through software and intelligent automation.*
 
 <table>
 <tr>
@@ -252,6 +253,7 @@ A full-stack e-commerce platform engineered with secure authentication, role-bas
 <br />
 
 ## Developer Snapshot
+> *The foundation, focus, and milestones shaping my growth as a software engineer.*
 
 ```python
 class Aaryan:
@@ -304,6 +306,9 @@ class Aaryan:
 
 <br />
 
+## Developer Analytics
+> *Insights into my coding activity, contribution patterns, and engineering consistency over time.*
+
 [![Aaryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aaryan498&theme=radical)](https://github.com/aaryan498)
 
 ![](https://github-profile-trophy.vercel.app/?username=aaryan498&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
@@ -348,7 +353,7 @@ class Aaryan:
 <br />
 
 ## Beyond The Code
-> *Insights into my coding activity, contribution patterns, and engineering consistency over time.*
+
 
 ```terminal
 aaryan@developer:~$ cat profile.conf
