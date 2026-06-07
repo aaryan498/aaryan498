@@ -122,8 +122,11 @@ Full-stack commerce solution supporting product management, authentication, user
 
 <br/>
 
+<br />
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br />
 
 ## Developer Snapshot
 
@@ -172,7 +175,11 @@ class Aaryan:
         return "Design • Build • Scale • Ship"
 ```
 
----
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br />
 
 [![Aaryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aaryan498&theme=radical)](https://github.com/aaryan498)
 
@@ -180,7 +187,11 @@ class Aaryan:
 
 ![](https://github-contributor-stats.vercel.app/api?username=aaryan498&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
----
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br />
 
 ## Problem Solving Profiles
 
@@ -206,7 +217,11 @@ class Aaryan:
   <img src="https://leetcard.jacoblin.cool/aaryan_498_official?theme=dark&font=Karma&ext=contest" />
 </p>
 
----
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br />
 
 ## Beyond The Code
 
@@ -234,7 +249,11 @@ aaryan@developer:~$ echo $PHILOSOPHY
 > _"Work out the body. Debug the mind. Upgrade the future."_
 ```
 
----
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br />
 
 <br><p align="center">
   <img
