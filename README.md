@@ -306,15 +306,15 @@ class Aaryan:
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
+  <a href="https://codeforces.com/profile/aaryan_498">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_HANDLE">
+  <a href="https://www.codechef.com/users/aaryan_498">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 
-  <a href="https://www.hackerrank.com/YOUR_HACKERRANK_HANDLE">
+  <a href="https://www.hackerrank.com/profile/kumaraaryan498">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </p>
