@@ -54,10 +54,9 @@ I enjoy working with distributed systems, automation, and applied machine learni
 <td width="50%" valign="top">
 
 ### WiseMindOS
+> **Focus Areas:** AI Integration • Productivity Systems • Analytics • Backend Architecture
 
 An AI-powered productivity operating system designed to help individuals plan, execute, and measure long-term personal growth through structured goal management, habit tracking, analytics, and intelligent decision support.
-
-**Focus Areas:** AI Integration • Productivity Systems • Analytics • Backend Architecture
 
 **Key Features**
 
@@ -93,10 +92,10 @@ An AI-powered productivity operating system designed to help individuals plan, e
 <td width="50%" valign="top">
 
 ### InterVuGrid.AI
+> **Focus Areas:** AI Systems • Resume Intelligence • Authentication • Candidate Analytics
 
 An AI-powered interview preparation platform that simulates real-world interview experiences, evaluates candidate performance, and provides actionable feedback to accelerate career readiness.
 
-**Focus Areas:** AI Systems • Resume Intelligence • Authentication • Candidate Analytics
 
 **Key Features**
 
@@ -137,10 +136,10 @@ An AI-powered interview preparation platform that simulates real-world interview
 <td width="50%" valign="top">
 
 ### Vanilla
+> **Focus Areas:** Real-Time Systems • WebRTC • Social Platforms • Media Processing
 
 A modern social networking platform focused on content sharing, real-time communication, and community engagement through scalable backend services and interactive user experiences.
 
-**Focus Areas:** Real-Time Systems • WebRTC • Social Platforms • Media Processing
 
 **Key Features**
 
@@ -183,10 +182,10 @@ A modern social networking platform focused on content sharing, real-time commun
 <td width="50%" valign="top">
 
 ### CobraLite Commerce
+> **Focus Areas:** RBAC • Payment Systems • Commerce Workflows • REST APIs
 
 A full-stack e-commerce platform engineered with secure authentication, role-based access control, payment processing, and administrative management capabilities.
 
-**Focus Areas:** RBAC • Payment Systems • Commerce Workflows • REST APIs
 
 **Key Features**
 
@@ -327,7 +326,7 @@ class Aaryan:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Beyond The Code
-
+> *The principles, ambitions, and habits that influence my work beyond software development.*
 
 ```terminal
 aaryan@developer:~$ cat profile.conf
