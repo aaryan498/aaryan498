@@ -235,6 +235,10 @@ A full-stack e-commerce platform engineered with secure authentication, role-bas
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg)
 
+<div align="center">
+<img src="https://github-stats-alpha.vercel.app/api?username=aaryan498&cc=0d0d0d&tc=ffffff&ic=B7B89F&bc=B7B89F" height="165"/>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Developer Snapshot
