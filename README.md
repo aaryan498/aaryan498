@@ -21,7 +21,7 @@ I enjoy working with distributed systems, automation, and applied machine learni
 
 <p align="center">
 <a href="https://linkedin.com/in/aaryan-kumar-ai-498-coder"><img src="https://skillicons.dev/icons?i=linkedin" width="50"></a>
-<a href="https://discord.com/users/aaryan498"><img src="https://skillicons.dev/icons?i=discord" width="50"></a>
+<a href="https://discord.gg/ynC8VNDfu"><img src="https://skillicons.dev/icons?i=discord" width="50"></a>
 <a href="mailto:kumaraaryan498@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"></a>
 <a href="https://x.com/aaryan498"><img src="https://skillicons.dev/icons?i=twitter" width="50"></a>
 <a href="https://instagram.com/its_aaryan.exe"><img src="https://skillicons.dev/icons?i=instagram" width="50"></a>
