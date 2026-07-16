@@ -296,11 +296,9 @@ class Aaryan:
 
 [![Aaryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aaryan498&theme=radical)](https://github.com/aaryan498)
 
-<img width="170" height="170" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/f46d627d-81aa-4dad-a961-cad4fe2cd6ac" />
-<img width="170" height="170" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/a71ba8d8-f514-4a4a-ae84-5b26a3a7ced3" />
-<img width="170" height="170" alt="gssoc-badge-role_pa" src="https://github.com/user-attachments/assets/cfd57edb-6ed8-4873-b35d-38d77f431907" />
-<img width="170" height="170" alt="gssoc-badge-rising_star" src="https://github.com/user-attachments/assets/0b2409a4-2b80-48fe-a6fb-00ea7e910b25" />
-<img width="170" height="170" alt="gssoc-badge-bounty_master" src="https://github.com/user-attachments/assets/007d4f9f-2ff6-4bb7-ab83-b823676561bb" />
+<img width="150" height="150" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/f46d627d-81aa-4dad-a961-cad4fe2cd6ac" />
+<img width="150" height="150" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/a71ba8d8-f514-4a4a-ae84-5b26a3a7ced3" />
+<img width="150" height="150" alt="gssoc-badge-role_pa" src="https://github.com/user-attachments/assets/cfd57edb-6ed8-4873-b35d-38d77f431907" />
 
 ![](https://github-profile-trophy.vercel.app/?username=aaryan498&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
