@@ -233,7 +233,12 @@ A full-stack e-commerce platform engineered with secure authentication, role-bas
   <img src="https://streak-stats.demolab.com?user=aaryan498&theme=radical" />
 </p>
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhairyagothi/dhairyagothi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhairyagothi/dhairyagothi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhairyagothi/dhairyagothi/output/pacman-contribution-graph.svg">
+</picture>
+
 
 <div align="center">
 <img src="https://github-stats-alpha.vercel.app/api?username=aaryan498&cc=0d0d0d&tc=ffffff&ic=B7B89F&bc=B7B89F" height="165"/>
@@ -294,7 +299,24 @@ class Aaryan:
 ## Developer Analytics
 > *Insights into my coding activity, contribution patterns, and engineering consistency over time.*
 
-[![Aaryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aaryan498&theme=radical)](https://github.com/aaryan498)
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhairyagothi&theme=tokyonight" width="100%" alt="Profile Details" />
+
+
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhairyagothi&theme=tokyonight" alt="Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhairyagothi&theme=tokyonight" alt="Repos per Language" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhairyagothi&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aaryan498&theme=tokyo-night)](https://github.com/aaryan498)
+
+</div>
 
 
 ## GitHub Trophies
