@@ -301,6 +301,17 @@ class Aaryan:
 <img width="150" height="150" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/a71ba8d8-f514-4a4a-ae84-5b26a3a7ced3" />
 <img width="150" height="150" alt="gssoc-badge-role_pa" src="https://github.com/user-attachments/assets/cfd57edb-6ed8-4873-b35d-38d77f431907" />
 
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+    <img
+        src="https://github-trophies.vercel.app/?username=aaryan498&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
 ![](https://github-profile-trophy.vercel.app/?username=aaryan498&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
 
 ![](https://github-contributor-stats.vercel.app/api?username=aaryan498&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
