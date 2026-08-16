@@ -296,25 +296,21 @@ class Aaryan:
 
 [![Aaryan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aaryan498&theme=radical)](https://github.com/aaryan498)
 
-<img width="150" height="150" alt="gssoc-badge-gssoc_champion" src="https://github.com/user-attachments/assets/c789f24d-8a3f-452f-8fde-cef9d133125b" />
-<img width="150" height="150" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/f46d627d-81aa-4dad-a961-cad4fe2cd6ac" />
-<img width="150" height="150" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/a71ba8d8-f514-4a4a-ae84-5b26a3a7ced3" />
-<img width="150" height="150" alt="gssoc-badge-role_pa" src="https://github.com/user-attachments/assets/cfd57edb-6ed8-4873-b35d-38d77f431907" />
 
----
-
-### 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
     <img
         src="https://github-trophies.vercel.app/?username=aaryan498&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
----
-
-![](https://github-profile-trophy.vercel.app/?username=aaryan498&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
-
-![](https://github-contributor-stats.vercel.app/api?username=aaryan498&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+## Open Source
+<p align="center">
+    <img width="150" height="150" alt="gssoc-badge-gssoc_champion" src="https://github.com/user-attachments/assets/c789f24d-8a3f-452f-8fde-cef9d133125b" />
+    <img width="150" height="150" alt="gssoc-badge-elite" src="https://github.com/user-attachments/assets/f46d627d-81aa-4dad-a961-cad4fe2cd6ac" />
+    <img width="150" height="150" alt="gssoc-badge-power_contributor" src="https://github.com/user-attachments/assets/a71ba8d8-f514-4a4a-ae84-5b26a3a7ced3" />
+    <img width="150" height="150" alt="gssoc-badge-role_pa" src="https://github.com/user-attachments/assets/cfd57edb-6ed8-4873-b35d-38d77f431907" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
